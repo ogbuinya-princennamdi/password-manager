@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17005816137",
+    "project_id": "password-manager-with-2fa",
+    "storage_bucket": "password-manager-with-2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17005816137:android:8593ef7ada6776d9325298",
+        "android_client_info": {
+          "package_name": "com.litmaclimited.passwordmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1gbSeLLIBYVV0WMWkJQjBOIvldOPzWkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
